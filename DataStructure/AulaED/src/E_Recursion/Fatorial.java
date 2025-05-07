@@ -1,4 +1,4 @@
-package E_FatorialRecursion;
+package E_Recursion;
 
 import java.util.Scanner;
 

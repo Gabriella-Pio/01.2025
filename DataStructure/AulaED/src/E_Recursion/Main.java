@@ -1,4 +1,4 @@
-package E_FatorialRecursion;
+package E_Recursion;
 
 public class Main {
     public static void main(String[] args) {
