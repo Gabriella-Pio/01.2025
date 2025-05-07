@@ -10,13 +10,13 @@ public class ShuntingYard {
 
         StringBuilder answer = new StringBuilder();
 
-        System.out.println("Digite uma operação: ");
+        System.out.print("Digite uma operação: ");
         String operation = sc.nextLine();
 
         for(int i = 0; operation.length() > i; i++) {
             char current = operation.charAt(i);
 
-            if (Character.isDigit(current)) {
+            if (Character.isDigit(current)) { //se número -> imprime
                 answer.append(current);
                 continue;
             }
@@ -35,6 +35,13 @@ public class ShuntingYard {
                     && String.valueOf(current).matches("\\*|\\/")) {
                 answer.append(operations.pop());
                 operations.push(current);
+            }
+
+            if (String.valueOf(current).matches("\\(")) {
+                operations.push(current);
+            } else if (String.valueOf(current).matches("\\)")) {
+                answer.append(operations.pop());
+                operations.pop();
             }
         }
 
