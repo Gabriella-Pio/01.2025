@@ -10,10 +10,8 @@ As pastas estão organizadas por disciplina ao longo do semestre:
 
 ```
 📦 3Periodo/
-├── ComputerGraphics/        # Computação Gráfica - OpenGL, Blender
-├── ComputerNetworks/        # Pesquisas e simulações com Cisco Packet Tracer
-├── DataStructure/AulaED     # Estrutura de Dados - listas, filas, pilhas, recursão
-├── EngRequisitos/           # Engenharia de Requisitos - documentação e modelagem
+├── DataStructure  # Estrutura de Dados - listas, filas, pilhas, recursão
+├── Math           # Fundamentos Matemãticos I - Cálculo I: derivadas, integrais
 ├── README.md
 ```
 
@@ -21,17 +19,23 @@ As pastas estão organizadas por disciplina ao longo do semestre:
 
 ## 📌 Disciplinas Envolvidas
 
-- **Computação Gráfica**  
-  Exploração de transformações gráficas, desenvolvimento com OpenGL e modelagem no Blender.
+- **Computação Gráfica**   
+  Exploração de transformações gráficas, desenvolvimento com OpenGL e modelagem no Blender. 
+  <br>[Drive ComputerGraphics](https://drive.google.com/drive/folders/1LKvSeYKaa0eQrNGvHZIeH6QejmGAm_l2?usp=sharing)
 
 - **Redes de Computadores**  
   Estudos sobre cabeamento estruturado, endereçamento IP, sub-redes, DHCP e servidores web, com simulações no Cisco Packet Tracer.
+  <br>[Drive ComputerNetworks](https://drive.google.com/drive/folders/1iPneVK2XD31lCnSbQjIBC8Bu6sE2W5w9?usp=sharing)
+
+- **Engenharia de Requisitos**  
+  Levantamento e análise de requisitos, histórias de usuário, prototipação de interfaces, além de criação de diagramas UML.
+  <br>[Drive EngRequisitos](https://drive.google.com/drive/folders/1KSQ7foytRUYnX3Eq7__4War6szA9YirU?usp=sharing)
 
 - **Estrutura de Dados I**  
   Implementação de estruturas como listas, pilhas, filas, além de algoritmos de busca, ordenação e recursividade, com base em POO.
 
-- **Engenharia de Requisitos**  
-  Levantamento e análise de requisitos, histórias de usuário, prototipação de interfaces, além de criação de diagramas UML.
+- **Fundamentos Matemáticos II**  
+  Implementação de conceitos de Cálculo I em uma calculadora de derivadas e integrais.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -56,9 +60,6 @@ Durante este semestre, aprofundei meus conhecimentos em:
 ## 🚀 Como Utilizar
 
 1. Navegue até a pasta da disciplina desejada.
-2. Na pasta `DataStructure`, abra os códigos com sua IDE de preferência (ex: IntelliJ ou VSCode).
-3. Na pasta `ComputerGraphics`, é necessário ter o **Blender instalado**, além de um editor de código para abrir arquivos relacionados ao OpenGL.
-4. Scripts SQL podem ser executados no **DBeaver** ou em outro gerenciador compatível com **PostgreSQL**. 🚧
-5. Na pasta `ComputerNetworks`, abra os arquivos de simulação utilizando o **Cisco Packet Tracer**.
+2. Na pasta, abra os códigos com sua IDE de preferência (ex: IntelliJ ou VSCode).
 
 ---
