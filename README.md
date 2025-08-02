@@ -1,5 +1,6 @@
 # 📚 Atividades e Projetos – 3º Período - Engenharia de Software
 
+
 Este repositório reúne as atividades práticas, exercícios e projetos desenvolvidos durante o **3º período** do curso de **Engenharia de Software – FATESG/SENAI**, no **primeiro semestre de 2025**.
 
 O objetivo é documentar minha evolução acadêmica por meio da aplicação de conceitos estudados em diversas disciplinas.
